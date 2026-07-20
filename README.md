@@ -8,8 +8,5 @@
 - 📍 Delhi, India
 
 ### Tools & Tech
-HTML5 · CSS3 · JavaScript · SQL · Figma · Git & GitHub
+HTML5 · CSS3 · JavaScript · SQL · Figma · Git & GitHub · Power BI
 
-### GitHub Stats
-![Yash's stats](https://github-readme-stats.vercel.app/api?username=Yash3122005&show_icons=true&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=Yash3122005&theme=radical)
