@@ -1,12 +1,15 @@
-# Hi 👋, I'm Yash
+# Hi 👋, I'm Yash Goyal
 
-### ECE Student @ BVCOE, Delhi | Frontend & Data Enthusiast
+### ECE Student @ BVCOE, Delhi
 
-- 🎓 3rd Year B.Tech, Electronics & Communication Engineering
-- 💼 Event Ops Intern @ Coll-Edge Connect | Ex Marketing Intern @ Simtrak Solutions
-- 🛠️ Frontend basics: HTML, CSS, JS | SQL | Manual QA Testing
+- 🎓 4th Year B.Tech, Electronics & Communication Engineering
 - 📍 Delhi, India
 
-### Tools & Tech
-HTML5 · CSS3 · JavaScript · SQL · Figma · Git & GitHub · Power BI
+### Experience
+- Event Ops Intern @ Coll-Edge Connect
+- Marketing Intern @ Simtrak Solutions
+- Manual QA & Testing @ Nethues Technologies
+- Sales & Business Development @ Younity Community
 
+### Tools & Tech
+HTML5 · CSS3 · JavaScript · SQL · Power BI · Git & GitHub
