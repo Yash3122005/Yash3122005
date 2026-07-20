@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Yash
 
-<!--
-**Yash3122005/Yash3122005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ECE Student @ BVCOE, Delhi | Frontend & Data Enthusiast
 
-Here are some ideas to get you started:
+- 🎓 3rd Year B.Tech, Electronics & Communication Engineering
+- 💼 Event Ops Intern @ Coll-Edge Connect | Ex Marketing Intern @ Simtrak Solutions
+- 🛠️ Frontend basics: HTML, CSS, JS | SQL & Power BI | Manual QA Testing
+- 📍 Delhi, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools & Tech
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JS](https://skillicons.dev/icons?i=js)
+![SQL](https://skillicons.dev/icons?i=mysql)
+![PowerBI](https://skillicons.dev/icons?i=powerbi)
+![Figma](https://skillicons.dev/icons?i=figma)
+
+### GitHub Stats
+![Yash's stats](https://github-readme-stats.vercel.app/api?username=Yash3122005&show_icons=true&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=Yash3122005&theme=radical)
